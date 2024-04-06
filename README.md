@@ -1,6 +1,4 @@
-# Project Title
 
-A brief description of what this project does and who it's for.
 
 ## Description
 
@@ -26,7 +24,7 @@ Before running this project, you'll need:
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://example.com/your-project.git
-cd your-project
+git clone https://github.com/ASMA-ALHinai/Frontend-challenge.git
+cd Frontend-challenge
 npm install
 npm start
